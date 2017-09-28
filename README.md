@@ -1,2 +1,2 @@
-# betr
+# BETR
 BETR-Research Model
